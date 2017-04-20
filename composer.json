@@ -1,3 +1,16 @@
 {
-  
+    "name": "zhaoduo666/composer",
+    "description": "A case Study of composer",
+    "type": "MIT",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaoduo666",
+            "email": "651990908@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      
+    }
 }
